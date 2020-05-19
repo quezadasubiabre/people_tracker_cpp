@@ -20,4 +20,4 @@ cmake ..
 make
 ```
 
-<a href="https://imgflip.com/gif/41zqb5">via Imgflip</a>
+<a href="https://imgflip.com/gif/41zqb5"><img src="https://imgflip.com/embed/41zqb5"></a>
