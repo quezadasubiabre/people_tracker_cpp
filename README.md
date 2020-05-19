@@ -4,7 +4,7 @@ This people detector is based on the tutorials https://www.learnopencv.com/objec
 
 Here is used OPENCV C++ framework to develop a people tracker. Each N frames is used an object detector for detect people in the frame (YOLO V3) and  a multitracking algorithm is applied by N-1 frames between.
 
-For download the weights and YOLO model:
+For download the weights and YOLO model  from darknet:
 
 ```
 sudo chmod a+x getModels.sh
