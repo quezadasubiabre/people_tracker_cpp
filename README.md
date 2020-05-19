@@ -22,4 +22,10 @@ make
 
 ![](41zqb5.gif)
 
+
+Run multi tracking: 
+```
+./PEOPLE_TRACKER --video=video.mp4
+```
+
  
